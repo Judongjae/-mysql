@@ -17,22 +17,21 @@ const process = {
     const id = req.body.id,
       psword = req.body.psword;
 
-    console.log(UserStorage.users);
+    const users = UserStorage.getUsers("id", "psword");
     const response = {};
-    // if (users.id.includes(id)) {
-    //   const idx = users.id.indexOf(id);
-    //   if (users.psword[idx] === psword) {
-    //     response.success = true;
-    //     return res.json(response);
-    //   }
-    // }
+    if (users.id.includes(id)) {
+      const idx = users.id.indexOf(id);
+      if (users.psword[idx] === psword) {
+        response.success = true;
+        return res.json(response);
+      }
+    }
 
     response.success = false;
     response.msg = "로그인에 실패하셨습니다.";
     return res.json(response);
   },
 };
-s;
 
 module.exports = {
   output,
