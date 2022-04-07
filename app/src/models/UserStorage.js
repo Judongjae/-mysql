@@ -2,7 +2,7 @@
 
 class UserStorage {
   static #users = {
-    //데이터 은닉화
+    //데이터 은닉화 외부에서 불러올 수 없음
     id: ["주동재", "wnehdwo", "박준영"],
     psword: ["1234", "0626", "1234"],
     name: ["wnehdwo", "김팀장", "주차장"],
