@@ -8,7 +8,7 @@ class User {
   }
   login() {
     const client = this.body;
-    UserStorage.getUserInfo(client.id);
+    console.log(UserStorage.getUserInfo(client.id));
 
     // if (id) {
     //   if (id === client.id && psword === client.psword) {
