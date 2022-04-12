@@ -29,7 +29,7 @@ class UserStorage {
         return userInfo;
       })
       .catch(console.error);
-  }
+  }s
   static save(userInfo) {
     // const users = this.#users;
     users.id.push(userInfo.id);
