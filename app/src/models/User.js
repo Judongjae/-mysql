@@ -18,7 +18,7 @@ class User {
     // }
     // return { success: false, msg: "존재하지 않는 아이디입니다." };
   }
-
+  s;
   register() {
     const client = this.body;
     const response = UserStorage.save(client);
