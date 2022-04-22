@@ -13,9 +13,6 @@ const accessLogStream = require("./src/config/log");
 //라우팅
 const home = require("./src/routes/home");
 
-const logger = require("./src/config/logger");
-logger.error("Hello MyWorld.");
-
 //앱 세팅
 app.set("views", "./src/views"); //view 엔진 경로
 app.set("view engine", "ejs");
