@@ -36,9 +36,14 @@ const process = {
   register: async (req, res) => {
     const user = new User(req.body);
     const response = await user.register();
-    logger.info(
-      `POST / register 200 Response: "success: ${response.success}, msg: ${response.msg}"`
-    );
+    if (response.err)
+      logger.error(
+        `POST / login 200 Response: "success: ${response.success}, ${response.err}"`
+      );
+    else
+      logger.info(
+        `POST / register 200 Response: "success: ${response.success}, msg: ${response.msg}"`
+      );
     return res.json(response);
   },
 };

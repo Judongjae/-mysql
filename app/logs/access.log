@@ -1,0 +1,60 @@
+2022-04-23 01:54:06 [winston 로그시스템 구현] info : 3000 포트에서 서버가 가동되었습니다.
+2022-04-23 01:54:06 [winston 로그시스템 구현] info : 3000 포트에서 서버가 가동되었습니다.
+2022-04-23 01:55:06 [winston 로그시스템 구현] info : 3000 포트에서 서버가 가동되었습니다.
+2022-04-23 01:55:06 [winston 로그시스템 구현] info : POST / login 200 Response: "success: false, msg: 비밀번호가 틀렸습니다."
+2022-04-23 01:55:06 [winston 로그시스템 구현] info : GET / login 200 "로그인 화면으로 이동"
+2022-04-23 01:55:06 [winston 로그시스템 구현] info : POST / login 200 Response: "success: false, msg: 비밀번호가 틀렸습니다."
+2022-04-23 01:57:06 [winston 로그시스템 구현] info : 3000 포트에서 서버가 가동되었습니다.
+2022-04-23 01:57:06 [winston 로그시스템 구현] info : GET / login 200 "로그인 화면으로 이동"
+2022-04-23 01:57:06 [winston 로그시스템 구현] info : POST / login 200 Response: "success: false, msg: 비밀번호가 틀렸습니다."
+2022-04-23 21:11:06 [winston 로그시스템 구현] info : 3000 포트에서 서버가 가동되었습니다.
+2022-04-23 21:12:06 [winston 로그시스템 구현] info : GET / 200 "홈 화면으로 이동"
+2022-04-23 21:12:06 [winston 로그시스템 구현] info : GET / login 200 "로그인 화면으로 이동"
+2022-04-23 21:12:06 [winston 로그시스템 구현] info : GET / login 200 "로그인 화면으로 이동"
+2022-04-23 21:12:06 [winston 로그시스템 구현] info : GET / login 200 "로그인 화면으로 이동"
+2022-04-23 21:13:06 [winston 로그시스템 구현] info : POST / login 200 Response: "success: true, msg: undefined"
+2022-04-23 21:13:06 [winston 로그시스템 구현] info : GET / 200 "홈 화면으로 이동"
+2022-04-23 21:13:06 [winston 로그시스템 구현] info : GET / login 200 "로그인 화면으로 이동"
+2022-04-23 22:59:06 [winston 로그시스템 구현] info : 3000 포트에서 서버가 가동되었습니다.
+2022-04-23 22:59:06 [winston 로그시스템 구현] info : GET / login 200 "로그인 화면으로 이동"
+2022-04-23 22:59:06 [winston 로그시스템 구현] info : POST / login 200 Response: "success: true, msg: undefined"
+2022-04-23 22:59:06 [winston 로그시스템 구현] info : GET / 200 "홈 화면으로 이동"
+2022-04-23 22:59:06 [winston 로그시스템 구현] info : GET / 200 "홈 화면으로 이동"
+2022-04-23 22:59:06 [winston 로그시스템 구현] info : GET / login 200 "로그인 화면으로 이동"
+2022-04-23 23:01:06 [winston 로그시스템 구현] info : POST / login 200 Response: "success: false, msg: 비밀번호가 틀렸습니다."
+2022-04-23 23:03:06 [winston 로그시스템 구현] info : 3000 포트에서 서버가 가동되었습니다.
+2022-04-23 23:03:06 [winston 로그시스템 구현] info : POST / login 200 Response: "success: false, msg: 비밀번호가 틀렸습니다."
+2022-04-23 23:05:06 [winston 로그시스템 구현] info : POST / login 200 Response: "success: false, msg: 비밀번호가 틀렸습니다."
+2022-04-23 23:05:06 [winston 로그시스템 구현] info : POST / login 200 Response: "success: false, msg: 비밀번호가 틀렸습니다."
+2022-04-23 23:06:06 [winston 로그시스템 구현] info : 3000 포트에서 서버가 가동되었습니다.
+2022-04-23 23:06:06 [winston 로그시스템 구현] info : POST / login 200 Response: "success: false, msg: 비밀번호가 틀렸습니다."
+2022-04-23 23:06:06 [winston 로그시스템 구현] info : GET / login 200 "로그인 화면으로 이동"
+2022-04-23 23:06:06 [winston 로그시스템 구현] info : POST / login 200 Response: "success: false, msg: 비밀번호가 틀렸습니다."
+2022-04-23 23:07:06 [winston 로그시스템 구현] info : 3000 포트에서 서버가 가동되었습니다.
+2022-04-23 23:07:06 [winston 로그시스템 구현] info : 3000 포트에서 서버가 가동되었습니다.
+2022-04-23 23:08:06 [winston 로그시스템 구현] info : GET / register 200 "회원가입 화면으로 이동"
+2022-04-23 23:08:06 [winston 로그시스템 구현] error : POST / login 200 Response: "success: false, Error: ER_DUP_ENTRY: Duplicate entry '주동재' for key 'users.PRIMARY'"
+2022-04-23 23:11:06 [winston 로그시스템 구현] info : 3000 포트에서 서버가 가동되었습니다.
+2022-04-23 23:12:06 [winston 로그시스템 구현] info : 3000 포트에서 서버가 가동되었습니다.
+2022-04-23 23:13:06 [winston 로그시스템 구현] info : 3000 포트에서 서버가 가동되었습니다.
+2022-04-23 23:13:06 [winston 로그시스템 구현] info : 3000 포트에서 서버가 가동되었습니다.
+2022-04-23 23:19:06 [winston 로그시스템 구현] info : 3000 포트에서 서버가 가동되었습니다.
+2022-04-23 23:20:06 [winston 로그시스템 구현] error : POST / login 200 Response: "success: false, Error: ER_DUP_ENTRY: Duplicate entry '주동재' for key 'users.PRIMARY'"
+2022-04-23 23:20:06 [winston 로그시스템 구현] info : ::1 - - [23/Apr/2022:14:20:06 +0000] "POST /register HTTP/1.1" 200 98
+
+2022-04-23 23:20:06 [winston 로그시스템 구현] info : GET / register 200 "회원가입 화면으로 이동"
+2022-04-23 23:20:06 [winston 로그시스템 구현] info : ::1 - - [23/Apr/2022:14:20:10 +0000] "GET /register HTTP/1.1" 200 1088
+
+2022-04-23 23:22:06 [winston 로그시스템 구현] info : POST / register 200 Response: "success: true, msg: undefined"
+2022-04-23 23:22:06 [winston 로그시스템 구현] info : ::1 - - [23/Apr/2022:14:22:27 +0000] "POST /register HTTP/1.1" 200 16
+
+2022-04-23 23:22:06 [winston 로그시스템 구현] info : GET / login 200 "로그인 화면으로 이동"
+2022-04-23 23:22:06 [winston 로그시스템 구현] info : ::1 - - [23/Apr/2022:14:22:27 +0000] "GET /login HTTP/1.1" 200 915
+
+2022-04-23 23:22:06 [winston 로그시스템 구현] info : POST / login 200 Response: "success: false, msg: 비밀번호가 틀렸습니다."
+2022-04-23 23:22:06 [winston 로그시스템 구현] info : ::1 - - [23/Apr/2022:14:22:43 +0000] "POST /login HTTP/1.1" 200 58
+
+2022-04-23 23:23:06 [winston 로그시스템 구현] info : 3000 포트에서 서버가 가동되었습니다.
+2022-04-23 23:23:06 [winston 로그시스템 구현] info : GET / login 200 "로그인 화면으로 이동"
+2022-04-23 23:23:06 [winston 로그시스템 구현] info : GET /login 200 915 - 6.997 ms
+
