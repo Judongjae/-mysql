@@ -30,7 +30,7 @@ const opts = {
   }),
   console: new transports.Console({
     level: "info",
-    format: printLogFormat.file,
+    format: printLogFormat.console,
   }),
 };
 
